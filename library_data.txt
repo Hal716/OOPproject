@@ -1,0 +1,52 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "copies": 2
+        },
+        {
+            "id": 2,
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "copies": 4
+        },
+        {
+            "id": 3,
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt",
+            "copies": 3
+        },
+        {
+            "id": 4,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "copies": 5
+        },
+        {
+            "id": 5,
+            "title": "Introduction to Algorithms",
+            "author": "Cormen et al.",
+            "copies": 1
+        }
+    ],
+    "members": [
+        {
+            "name": "hamzah",
+            "type": "normal",
+            "borrowed": []
+        },
+        {
+            "name": "khaled",
+            "type": "premium",
+            "borrowed": []
+        }
+    ],
+    "history": [
+        "hamzah returned Python Crash Course",
+        "hamzah returned Python Crash Course",
+        "hamzah returned The Hobbit",
+        "hamzah returned The Hobbit"
+    ]
+}
